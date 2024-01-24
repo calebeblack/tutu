@@ -1,3 +1,11 @@
-# Aula-2
 
-Exercicio 2 dia 23/01, fez site e utilizou merge, pull, branch e commit.
+# **Git e GitHub**
+
+*Praticar a adição, commit e push para o GitHub e praticar alguns comandos básicos no que diz respeito ao manejo do seu repositório.*
+
+
+## ✨*Autores*✨
+
+- [calebeblack](https://www.github.com/calebeblack)
+- [Rebekabraga](https://www.github.com/Rebekabraga)
+
